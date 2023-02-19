@@ -7,25 +7,26 @@
 <img width="561" alt="Снимок экрана 2023-02-17 в 22 44 14" src="https://user-images.githubusercontent.com/113035992/219951853-9e083dcf-e054-48f6-ba9f-d946405386ae.png">
 
 
-21:27:33.656769: loading io.vertx //
-21:27:33.838026: loaded 529 classes //
+21:27:33.656769: loading io.vertx // загрузка классов vertx
+
+21:27:33.838026: loaded 529 classes // загружено 529 классов, значительно увеличился объем Metaspace для хранения этих классов
 ![IMG_4428](https://user-images.githubusercontent.com/113035992/219950852-8971e64f-8670-4b66-ae9a-442500925855.PNG)
 ![IMG_4429](https://user-images.githubusercontent.com/113035992/219951880-49c5d5d4-0d4c-428c-9662-a88dedf60eca.PNG)
 ![IMG_4430](https://user-images.githubusercontent.com/113035992/219950905-d8464272-dd47-41a4-8617-a2c6224b069a.PNG)
 
-21:27:36.844404: loading io.netty //
+21:27:36.844404: loading io.netty // загружено 815 классов netty
 ![IMG_4431](https://user-images.githubusercontent.com/113035992/219951034-f530a064-004f-4e1f-9407-fa6bdc68e93a.PNG)
 ![IMG_4432](https://user-images.githubusercontent.com/113035992/219951039-8b087165-e2f5-45ac-b2f6-22ceb50507aa.PNG)
 ![IMG_4433](https://user-images.githubusercontent.com/113035992/219951047-97465a59-af79-47c6-9b92-7cb8a26df4fe.PNG)
 
-21:27:37.189070: loaded 2117 classes //
+21:27:37.189070: loaded 2117 classes // загружено 2117 классов, Вырос Metaspace. Снизился Heap, значит были удалены неиспользуемые объекты
 ![IMG_4434](https://user-images.githubusercontent.com/113035992/219951201-554cf101-6848-4bd6-9830-79ef3e378474.PNG)
 ![IMG_4435](https://user-images.githubusercontent.com/113035992/219951231-bb47d10e-b5a3-4c79-9e41-b159ef4ee38d.PNG)
 ![IMG_4436](https://user-images.githubusercontent.com/113035992/219951234-416010fa-ee48-4510-9c86-3634fbe47f96.PNG)
 
-21:27:40.194187: loading org.springframework //
+21:27:40.194187: loading org.springframework // загрузка классов springframework
 
-21:27:40.306425: loaded 869 classes //
+21:27:40.306425: loaded 869 classes // загружено 869 классов, 
 ![IMG_4437](https://user-images.githubusercontent.com/113035992/219951246-9fc42270-60ae-4cdf-a4c6-f1aa90f75250.PNG)
 ![IMG_4438](https://user-images.githubusercontent.com/113035992/219951251-a6771688-5da8-40a4-a3af-f6266b8f2444.PNG)
 ![IMG_4439](https://user-images.githubusercontent.com/113035992/219951254-897a48ee-6b24-4c0d-96dd-64e4df619832.PNG)
@@ -61,7 +62,7 @@ BUILD SUCCESSFUL in 51s
 
 2 actionable tasks: 2 executed
 
-21:27:53: Execution finished ':JvmExperience.main()'.
+21:27:53: Execution finished ':JvmExperience.main()'. //
 ![IMG_4453](https://user-images.githubusercontent.com/113035992/219951783-d0e91568-c179-4e28-a95b-1f5a1b4025c4.PNG)
 ![IMG_4454](https://user-images.githubusercontent.com/113035992/219951788-e125ae3b-f3bf-4eb4-b34b-936318cdb8a7.PNG)
 ![IMG_4455](https://user-images.githubusercontent.com/113035992/219951792-5fa08b56-f67a-43c2-8311-2a6ae8e500a2.PNG)
