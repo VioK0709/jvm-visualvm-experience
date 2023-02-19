@@ -15,7 +15,7 @@ Please open 'ru.netology.JvmExperience' in VisualVm
 21:27:33.656769: loading io.vertx
 21:27:33.838026: loaded 529 classes
 
-https://disk.yandex.ru/client/disk/JAVA/Java%20Core%2010%20VisualVM/33?idApp=client&dialog=slider&idDialog=%2Fdisk%2FJAVA%2FJava%20Core%2010%20VisualVM%2F33%2FIMG_4428.PNG
+![IMG_4428](https://user-images.githubusercontent.com/113035992/219950852-8971e64f-8670-4b66-ae9a-442500925855.PNG)
 
 
 
