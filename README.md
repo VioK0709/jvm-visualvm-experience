@@ -63,7 +63,7 @@ BUILD SUCCESSFUL in 51s
 
 2 actionable tasks: 2 executed
 
-21:27:53: Execution finished ':JvmExperience.main()'. // Созданы 2 класса, что видно в Classes. Незначительно увеличился объем используемой памяти Hea и Metaspace. Программа завершила работу
+21:27:53: Execution finished ':JvmExperience.main()'. // Созданы 2 класса, что видно в Classes. Незначительно увеличился объем используемой памяти Heap и Metaspace. Программа завершила работу
 ![IMG_4453](https://user-images.githubusercontent.com/113035992/219951783-d0e91568-c179-4e28-a95b-1f5a1b4025c4.PNG)
 ![IMG_4454](https://user-images.githubusercontent.com/113035992/219951788-e125ae3b-f3bf-4eb4-b34b-936318cdb8a7.PNG)
 ![IMG_4455](https://user-images.githubusercontent.com/113035992/219951792-5fa08b56-f67a-43c2-8311-2a6ae8e500a2.PNG)
