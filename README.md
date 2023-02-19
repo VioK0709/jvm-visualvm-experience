@@ -3,22 +3,14 @@
 Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)
 
 Вывод программы:
-
-21:27:01: Executing ':JvmExperience.main()'...
-
->  Task :compileJava
->  Task :processResources NO-SOURCE
->  Task :classes
-
->  Task :JvmExperience.main()
-Please open 'ru.netology.JvmExperience' in VisualVm
+<img width="561" alt="Снимок экрана 2023-02-17 в 22 44 14" src="https://user-images.githubusercontent.com/113035992/219951853-9e083dcf-e054-48f6-ba9f-d946405386ae.png">
 
 
 21:27:33.656769: loading io.vertx //
 21:27:33.838026: loaded 529 classes //
 
 ![IMG_4428](https://user-images.githubusercontent.com/113035992/219950852-8971e64f-8670-4b66-ae9a-442500925855.PNG)
-![IMG_4429](https://use![IMG_4430](https://user-images.githubusercontent.com/113035992/219950889-576352ee-e249-4cad-96c9-9c0915ee70d1.PNG)
+![IMG_4429](https://user-images.githubusercontent.com/113035992/219951880-49c5d5d4-0d4c-428c-9662-a88dedf60eca.PNG)
 ![IMG_4430](https://user-images.githubusercontent.com/113035992/219950905-d8464272-dd47-41a4-8617-a2c6224b069a.PNG)
 
 
