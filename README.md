@@ -8,21 +8,17 @@
 
 
 21:27:33.656769: loading io.vertx //
-
 21:27:33.838026: loaded 529 classes //
-
 ![IMG_4428](https://user-images.githubusercontent.com/113035992/219950852-8971e64f-8670-4b66-ae9a-442500925855.PNG)
 ![IMG_4429](https://user-images.githubusercontent.com/113035992/219951880-49c5d5d4-0d4c-428c-9662-a88dedf60eca.PNG)
 ![IMG_4430](https://user-images.githubusercontent.com/113035992/219950905-d8464272-dd47-41a4-8617-a2c6224b069a.PNG)
 
 21:27:36.844404: loading io.netty //
-
 ![IMG_4431](https://user-images.githubusercontent.com/113035992/219951034-f530a064-004f-4e1f-9407-fa6bdc68e93a.PNG)
 ![IMG_4432](https://user-images.githubusercontent.com/113035992/219951039-8b087165-e2f5-45ac-b2f6-22ceb50507aa.PNG)
 ![IMG_4433](https://user-images.githubusercontent.com/113035992/219951047-97465a59-af79-47c6-9b92-7cb8a26df4fe.PNG)
 
 21:27:37.189070: loaded 2117 classes //
-
 ![IMG_4434](https://user-images.githubusercontent.com/113035992/219951201-554cf101-6848-4bd6-9830-79ef3e378474.PNG)
 ![IMG_4435](https://user-images.githubusercontent.com/113035992/219951231-bb47d10e-b5a3-4c79-9e41-b159ef4ee38d.PNG)
 ![IMG_4436](https://user-images.githubusercontent.com/113035992/219951234-416010fa-ee48-4510-9c86-3634fbe47f96.PNG)
@@ -54,6 +50,7 @@
 ![IMG_4448](https://user-images.githubusercontent.com/113035992/219951616-f3351f40-51b5-4816-87d1-ee047454e918.PNG)
 
 21:27:49.672850: creating 5000000 objects //
+
 21:27:49.842587: created //
 ![IMG_4449](https://user-images.githubusercontent.com/113035992/219951622-b813e95e-e1a0-42a6-9e26-bd6ace3acaa3.PNG)
 ![IMG_4450](https://user-images.githubusercontent.com/113035992/219951626-836ea54f-0420-4a08-8bfb-b5f98ef113e0.PNG)
