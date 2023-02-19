@@ -3,6 +3,7 @@
 Описание и инструкция к выполнению [здесь](https://github.com/netology-code/jd-homeworks/tree/master/jvm/README.md)
 
 Вывод программы:
+
 <img width="561" alt="Снимок экрана 2023-02-17 в 22 44 14" src="https://user-images.githubusercontent.com/113035992/219951853-9e083dcf-e054-48f6-ba9f-d946405386ae.png">
 
 
