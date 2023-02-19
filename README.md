@@ -32,7 +32,7 @@
 ![IMG_4439](https://user-images.githubusercontent.com/113035992/219951254-897a48ee-6b24-4c0d-96dd-64e4df619832.PNG)
 ![IMG_4440](https://user-images.githubusercontent.com/113035992/219951258-6c3467bb-77bd-40ba-bf53-4fa8dcad2330.PNG)
 
-21:27:43.311539: now see heap // сообщение об обращении внимания на Haep
+21:27:43.311539: now see heap // сообщение об обращении внимания на Heap
 
 21:27:43.312197: creating 5000000 objects // создано 5 000 000 объектов
 
