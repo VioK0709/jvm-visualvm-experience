@@ -12,39 +12,70 @@
 
 >  Task :JvmExperience.main()
 Please open 'ru.netology.JvmExperience' in VisualVm
-21:27:33.656769: loading io.vertx
-21:27:33.838026: loaded 529 classes
+
+
+21:27:33.656769: loading io.vertx //
+21:27:33.838026: loaded 529 classes //
 
 ![IMG_4428](https://user-images.githubusercontent.com/113035992/219950852-8971e64f-8670-4b66-ae9a-442500925855.PNG)
+![IMG_4429](https://use![IMG_4430](https://user-images.githubusercontent.com/113035992/219950889-576352ee-e249-4cad-96c9-9c0915ee70d1.PNG)
+![IMG_4430](https://user-images.githubusercontent.com/113035992/219950905-d8464272-dd47-41a4-8617-a2c6224b069a.PNG)
 
 
+21:27:36.844404: loading io.netty //
+![IMG_4431](https://user-images.githubusercontent.com/113035992/219951034-f530a064-004f-4e1f-9407-fa6bdc68e93a.PNG)
+![IMG_4432](https://user-images.githubusercontent.com/113035992/219951039-8b087165-e2f5-45ac-b2f6-22ceb50507aa.PNG)
+![IMG_4433](https://user-images.githubusercontent.com/113035992/219951047-97465a59-af79-47c6-9b92-7cb8a26df4fe.PNG)
 
 
-21:27:36.844404: loading io.netty
+21:27:37.189070: loaded 2117 classes //
+![IMG_4434](https://user-images.githubusercontent.com/113035992/219951201-554cf101-6848-4bd6-9830-79ef3e378474.PNG)
+![IMG_4435](https://user-images.githubusercontent.com/113035992/219951231-bb47d10e-b5a3-4c79-9e41-b159ef4ee38d.PNG)
+![IMG_4436](https://user-images.githubusercontent.com/113035992/219951234-416010fa-ee48-4510-9c86-3634fbe47f96.PNG)
+
+21:27:40.194187: loading org.springframework //
+21:27:40.306425: loaded 869 classes //
+![IMG_4437](https://user-images.githubusercontent.com/113035992/219951246-9fc42270-60ae-4cdf-a4c6-f1aa90f75250.PNG)
+![IMG_4438](https://user-images.githubusercontent.com/113035992/219951251-a6771688-5da8-40a4-a3af-f6266b8f2444.PNG)
+![IMG_4439](https://user-images.githubusercontent.com/113035992/219951254-897a48ee-6b24-4c0d-96dd-64e4df619832.PNG)
+![IMG_4440](https://user-images.githubusercontent.com/113035992/219951258-6c3467bb-77bd-40ba-bf53-4fa8dcad2330.PNG)
 
 
-21:27:37.189070: loaded 2117 classes
-
-
-21:27:40.194187: loading org.springframework
-21:27:40.306425: loaded 869 classes
-
-
-21:27:43.311539: now see heap
-21:27:43.312197: creating 5000000 objects
-21:27:43.498426: created
+21:27:43.311539: now see heap //
+21:27:43.312197: creating 5000000 objects //
+21:27:43.498426: created //
+![IMG_4441](https://user-images.githubusercontent.com/113035992/219951263-e1a882b3-ed30-42f4-9e89-bdbe143998a2.PNG)
+![IMG_4442](https://user-images.githubusercontent.com/113035992/219951267-1037c940-1956-4a51-82ec-1c90eef48b40.PNG)
+![IMG_4443](https://user-images.githubusercontent.com/113035992/219951269-e78bdbdf-76d7-4738-a61f-76be5ede18ed.PNG)
+![IMG_4444](https://user-images.githubusercontent.com/113035992/219951271-176d813f-40fa-437f-a5d8-d116690162ec.PNG)
+![IMG_4445](https://user-images.githubusercontent.com/113035992/219951278-7050fe25-ec59-4cb6-8fdf-52429ea806ac.PNG)
 
 
 21:27:46.500730: creating 5000000 objects
 21:27:46.640653: created
+![IMG_4446](https://user-images.githubusercontent.com/113035992/219951609-520721bc-faed-4a1d-92f9-a112c272f156.PNG)
+![IMG_4447](https://user-images.githubusercontent.com/113035992/219951614-b0a88767-322e-4ddf-a4f3-18d46427d23e.PNG)
+![IMG_4448](https://user-images.githubusercontent.com/113035992/219951616-f3351f40-51b5-4816-87d1-ee047454e918.PNG)
 
 
-21:27:49.672850: creating 5000000 objects
-21:27:49.842587: created
-
-
+21:27:49.672850: creating 5000000 objects //
+21:27:49.842587: created //
+![IMG_4449](https://user-images.githubusercontent.com/113035992/219951622-b813e95e-e1a0-42a6-9e26-bd6ace3acaa3.PNG)
+![IMG_4450](https://user-images.githubusercontent.com/113035992/219951626-836ea54f-0420-4a08-8bfb-b5f98ef113e0.PNG)
+![IMG_4451](https://user-images.githubusercontent.com/113035992/219951627-ab06edfd-cc36-4490-a66c-cea6f4f9a035.PNG)
+![IMG_4452](https://user-images.githubusercontent.com/113035992/219951631-f7319235-8e22-4770-bb9e-a38a8327fd31.PNG)
 
 
 BUILD SUCCESSFUL in 51s
 2 actionable tasks: 2 executed
 21:27:53: Execution finished ':JvmExperience.main()'.
+![IMG_4453](https://user-images.githubusercontent.com/113035992/219951783-d0e91568-c179-4e28-a95b-1f5a1b4025c4.PNG)
+![IMG_4454](https://user-images.githubusercontent.com/113035992/219951788-e125ae3b-f3bf-4eb4-b34b-936318cdb8a7.PNG)
+![IMG_4455](https://user-images.githubusercontent.com/113035992/219951792-5fa08b56-f67a-43c2-8311-2a6ae8e500a2.PNG)
+![IMG_4456](https://user-images.githubusercontent.com/113035992/219951794-7af91f28-fed7-4e85-92d6-72ca9c25c974.PNG)
+
+
+
+
+
+
