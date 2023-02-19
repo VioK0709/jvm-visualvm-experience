@@ -45,7 +45,7 @@
 
 21:27:46.500730: creating 5000000 objects// создано 5 000 000 объектов
 
-21:27:46.640653: created // В Classes движение отсутствиет. Значительно увеличились Heap и Metaspace, из-за создания большого количества объектов
+21:27:46.640653: created // В Classes движение отсутствует. Значительно увеличились Heap и Metaspace, из-за создания большого количества объектов
 ![IMG_4446](https://user-images.githubusercontent.com/113035992/219951609-520721bc-faed-4a1d-92f9-a112c272f156.PNG)
 ![IMG_4447](https://user-images.githubusercontent.com/113035992/219951614-b0a88767-322e-4ddf-a4f3-18d46427d23e.PNG)
 ![IMG_4448](https://user-images.githubusercontent.com/113035992/219951616-f3351f40-51b5-4816-87d1-ee047454e918.PNG)
